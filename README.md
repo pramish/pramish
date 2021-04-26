@@ -1,8 +1,4 @@
-Hi there 👋,
-
 ![Pramish Logo](images/pramish.png)
-
-# here,
 
 **I am a Software Engineer who would like to automate things in life.**
 
