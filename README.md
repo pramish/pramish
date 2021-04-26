@@ -31,6 +31,8 @@ app.listen(PORT, () => {
 
 ### My permanent address is at [http://localhost:3000](http://localhost:3000). Sometimes you can find me at [http://localhost:5000/graphql](http://localhost:5000/graphql)
 
-![Pramish's Github Stats](https://github-readme-stats.vercel.app/api?username=pramish&show_icons=true&theme=darcula)
+My Contribution so far
+
+[![Pramish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramish&show_icons=true&theme=darcula)](https://github.com/pramish)
 
 # Happy Coding!
