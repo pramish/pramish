@@ -12,7 +12,7 @@
 
 **To learn more about me or have an idea but don't know how to bring your ideas into life, please do contact me via [LinkedIn](https://www.linkedin.com/in/pramish-luitel/) or [Twitter](https://twitter.com/i_am_pramish).**
 
-**I am an author at [Medium](https://medium.com/@luitelpramish7) for [Better Programming](https://betterprogramming.pub/), [The Startup](https://medium.com/swlh), [Analytics Vidhya](https://medium.com/analytics-vidhya) and [Geek Culture](https://medium.com/geekculture). You can find my latest articles at my profile.**
+**I am an author at [Medium](https://medium.com/@luitelpramish7) for [Better Programming](https://betterprogramming.pub/), [The Startup](https://medium.com/swlh), [Analytics Vidhya](https://medium.com/analytics-vidhya) and [Geek Culture](https://medium.com/geekculture).**
 
 ## My Favourite wallpaper
 
