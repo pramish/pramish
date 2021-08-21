@@ -38,5 +38,6 @@ My Contribution so far
 I love to read a lot articles. Check out my DailyDevCard.
 
 ![DailyDevCard](https://api.daily.dev/devcards/1bbc8234c04443ac9a7d303c831bee58.png?r=sfo)
+<a href="https://app.daily.dev/pramishluitel"><img src="https://api.daily.dev/devcards/1bbc8234c04443ac9a7d303c831bee58.png?r=3oh" width="400" alt="Pramish Luitel's Dev Card"/></a>
 
 # Happy Coding!
