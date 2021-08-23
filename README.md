@@ -1,6 +1,6 @@
 ![Pramish Logo](images/pramish.png)
 
-<img src="https://avatars.githubusercontent.com/u/26316094?v=4" alt="pramish image"/>
+<img src="https://avatars.githubusercontent.com/u/26316094?v=4" alt="pramish image" style='border-radius=50%'/>
 **I am a Software Engineer who would like to automate things in life.**
 
 **My primary tech stacks are:**
