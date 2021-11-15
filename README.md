@@ -35,7 +35,7 @@ My Contribution so far
 
 [![Pramish's GitHub stats](https://github-readme-stats.vercel.app/api?username=pramish&show_icons=true&theme=darcula)](https://github.com/pramish)
 
-I love to read a lot articles. Check out my DailyDevCard.
+I love to read articles. Check out my DailyDevCard.
 <a href="https://app.daily.dev/pramishluitel"><img src="https://api.daily.dev/devcards/1bbc8234c04443ac9a7d303c831bee58.png?r=3oh" width="200" alt="Pramish Luitel's Dev Card"/></a>
 
 # Happy Coding!
