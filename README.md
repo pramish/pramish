@@ -4,11 +4,11 @@
 
 **My primary tech stacks are:**
 
-![HTML](images/html.svg) ![CSS](images/css.svg) ![JavaScript](images/javascript.svg) ![React](images/react.svg) ![NodeJS](images/nodejs.svg) ![Redux](images/redux.svg) ![Apollo Client & Server](images/apollo.svg) ![Firebase](images/firebase.svg) ![GraphQL](images/graphql.svg) ![MongoDB](images/mongodb.svg) ![TypeScript](images/nextjs.svg)
+![HTML](images/html.svg) ![CSS](images/css.svg) ![JavaScript](images/javascript.svg) ![React](images/react.svg) ![NodeJS](images/nodejs.svg) ![Redux](images/redux.svg) ![Apollo Client & Server](images/apollo.svg) ![Firebase](images/firebase.svg) ![GraphQL](images/graphql.svg) ![MongoDB](images/mongodb.svg) ![NextJS](images/nextjs.svg) ![TypeScript](images/typescript.svg)
 
 **I am learning**
 
-![NestJS](images/nestjs.svg) ![NestJS](images/typescript.svg)
+![NestJS](images/nestjs.svg)
 
 **To learn more about me or have an idea but don't know how to bring your ideas into life, please do contact me via [LinkedIn](https://www.linkedin.com/in/pramish-luitel/) or [Twitter](https://twitter.com/i_am_pramish).**
 
