@@ -29,7 +29,7 @@ app.listen(PORT, () => {
 })
 ```
 
-### My permanent address is at ```http://localhost:3000``` or ```http://localhost:5000/graphql```.
+### My permanent address is at ```http://localhost:3000``` or ```http://localhost:8080```.
 
 My Contribution so far
 
