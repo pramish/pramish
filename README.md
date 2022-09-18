@@ -1,6 +1,6 @@
 ![Pramish Logo](images/pramish.png)
 
-**I am a Software Engineer who would like to automate things in life.**
+**I am a Software Engineer.**
 
 **My primary tech stacks are:**
 
